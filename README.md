@@ -1,4 +1,4 @@
-#### Real time notification app with Laravel Broadcasting Echo, Redis, Sockek.io, Vue JS, Docker
+#### Real time notification app with Laravel Broadcasting Echo, Redis, Socket.io, Vue JS , Docker
 
 #### Usage
 

@@ -7,6 +7,6 @@ git clone https://github.com/oguzcandemircan/Laravel-Broadcasting-Real-Time-Noti
 cd real-time-notification-app
 docker-compose up -d nginx mysql laravel-echo-server redis
 ```
-From the browser, go to http: // localhost. Then open a new tab to go to http: // localhost / add-notification. Back to http: // localhost.
+From the browser, go to http://localhost Then open a new tab to go to http://localhost/add-notification. Back to http://localhost.
 
 ![oguzcandemircan.com - laravel broadcasting](https://oguzcandemircan.com/assets/posts/5/notification-example.png)
